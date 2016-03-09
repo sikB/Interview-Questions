@@ -9,6 +9,13 @@
 
 h1{
 	padding: 20% 10% 0;
+	font-size: 36px;
+	color: #ff3300;
+	
+}
+h2{
+	font-size: 26px;
+	color: #6600ff;
 }
 
 #ask{
